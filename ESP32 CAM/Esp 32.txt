@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=A1SPJSVra9I
+https://how2electronics.com/gesture-controlled-virtual-mouse-with-esp32-cam-opencv/
+https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/
+https://www.hackster.io/mircemk/simple-esp32-cam-object-detection-using-open-cv-ebc717
+https://www.youtube.com/watch?v=bZIKVaD3dRk      --datasets  
+https://github.com/eloquentarduino/EloquentEsp32cam  --datasets
+https://www.youtube.com/watch?app=desktop&v=HDRvZ_BYd08
